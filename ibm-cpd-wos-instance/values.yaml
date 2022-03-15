@@ -5,9 +5,9 @@
 metadata:
   name: aiopenscale
 spec:
-  ignoreForMaintenance: false
+  ignoreForMaintenance: "true"
   license:
-    accept: true
+    accept: "true"
     license: Enterprise
   scaleConfig: small
   type: service
