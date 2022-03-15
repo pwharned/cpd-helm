@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ibm-cpd-wos-instance:
+  - apiVersion: v2
+    appVersion: 4.0.4
+    created: "2022-03-15T14:48:52.46567-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 1f28fc9762db4f6e768e2f24212a6674e120cde337ab3548c489cee12a137a6d
+    name: ibm-cpd-wos-instance
+    type: application
+    urls:
+    - https://pwharned.github.io/cpd-helm/ibm-cpd-wos-instance-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-15T14:48:52.46462-07:00"
